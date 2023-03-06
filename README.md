@@ -1,6 +1,6 @@
 # ChatGPT-web
 
-## **URL**: https://niek.github.io/chatgpt-web/
+## **URL**: https://luncnymph.github.io/chatgpt-web/
 
 ![Screenshot of ChatGPT-web](.github/screenshot.png)
 
